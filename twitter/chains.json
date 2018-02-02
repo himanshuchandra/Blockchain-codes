@@ -1,0 +1,206 @@
+{
+  "0x8f2cfa7c478e13ca6b97506f860e6b375ca91606f2464eb2f3205248522cee6c": {
+    "contracts": {
+      "0x9ae9adff38015c7d290dcd0edab0ff603542a5c8dfc22f1a1a2568eaa87e6301": {
+        "name": "MDBAccount",
+        "address": "0xe5fb78de16059a6aa8899ae809943b13b938ea1c"
+      },
+      "0x4d6d76e1948cc34a9add4bf2b2671cd3428a175335a903b533eb8724ceedc3f5": {
+        "name": "MDBAccount",
+        "address": "0xcd4fb0e9732d6efa6031c6eac053858244937a7d"
+      },
+      "0x9d848e5508e2c2e908335b4248578cd411157517e421b6c87b5353f74f7cedd9": {
+        "name": "MDBAccount",
+        "address": "0x33676765ad6ba8f84b0b88993552764f2ede14b4"
+      },
+      "0x678ec8b9fe741f59199bd360a5820187863782466b4481e4561da007aa249841": {
+        "name": "MDBService",
+        "address": "0x648be9395b27a6239073ea2bbdfdd55690c81123"
+      }
+    },
+    "name": "development"
+  },
+  "0x76eada5cb050096ec9391f2db7260644ced6246722038180566311386d105a8e": {
+    "contracts": {
+      "0xdb943fafab0c31da00ca0ca8ff13c7399dffb63840c7a00f2c4b953ec70c5e00": {
+        "name": "MDBService",
+        "address": "0x6ce30ace1dc63943975e4f3a51cc546712b24817"
+      }
+    },
+    "name": "development"
+  },
+  "0x8325ec72e4ee56eb88e4e38db0c1a2e3e975e3b3a7589fe06c7db4efcbda5198": {
+    "contracts": {
+      "0xdb943fafab0c31da00ca0ca8ff13c7399dffb63840c7a00f2c4b953ec70c5e00": {
+        "name": "MDBService",
+        "address": "0xaf4dff0ac1130e8ed5b4b12fb3e8b26276b4bbe2"
+      }
+    },
+    "name": "development"
+  },
+  "0xc849c0da2439c33f8d98d2cb9604881b198a7e6bcad5c676830daa799034ebaa": {
+    "contracts": {
+      "0xdb943fafab0c31da00ca0ca8ff13c7399dffb63840c7a00f2c4b953ec70c5e00": {
+        "name": "MDBService",
+        "address": "0x57dd93fb1157978561a8ab4edce324ec299869bb"
+      }
+    },
+    "name": "development"
+  },
+  "0xb68ad4024ecf7c1a8353e5ffe290b10eb883bbf846de186bfbac33fe89a1d4b0": {
+    "contracts": {
+      "0xdb943fafab0c31da00ca0ca8ff13c7399dffb63840c7a00f2c4b953ec70c5e00": {
+        "name": "MDBService",
+        "address": "0x51e9c6f2a40f7b1dfbd79f502a415625df300420"
+      }
+    },
+    "name": "development"
+  },
+  "0xe0c7e18fbfd20029b4aca2688dff58fab299cadeb23ed1d71b95a47aec32624c": {
+    "contracts": {
+      "0xdb943fafab0c31da00ca0ca8ff13c7399dffb63840c7a00f2c4b953ec70c5e00": {
+        "name": "MDBService",
+        "address": "0xcfffb722858b51d37478ded8e4a53b4bc1d56ffd"
+      }
+    },
+    "name": "development"
+  },
+  "0x219dd0517693a00ac7c5dae9ed1a80cb8802e3dc432be69732ddc2ee3395bcd0": {
+    "contracts": {
+      "0xdb943fafab0c31da00ca0ca8ff13c7399dffb63840c7a00f2c4b953ec70c5e00": {
+        "name": "MDBService",
+        "address": "0xf258e4f16799fd789a8d75e4d7ccb242662313a6"
+      },
+      "0x3eef12f2daaf63df13f2d92da1d9c720dba9cae0ef8181b86f73e3613b1353e2": {
+        "name": "MDBAccount",
+        "address": "0x51ccd6e5f314861ba8a14e246b7e76fe16d66eee"
+      }
+    },
+    "name": "development"
+  },
+  "0x7ce0d1c831dac023f571b307fde2355183b0cfc4ebc67b95904d96f261738058": {
+    "contracts": {
+      "0x0a2bd7455dcdd23d2ca7fce13892ea1cd53f4d30438f7882670d7011fb8a0abb": {
+        "name": "MDBAccount",
+        "address": "0xb7378678fae2630f27eb05806a99583b77caadbd"
+      },
+      "0x914ddd0fd3738424ae032add3e2241fb4b86d2907a97c69d0af01e19ec408d20": {
+        "name": "MDBService",
+        "address": "0x294d22116ef967fc4cae1cb6d4ec7ed3fe79fd5f"
+      }
+    },
+    "name": "development"
+  },
+  "0x1bc7b902123350fd08dedbf73bb126f3313aeffd7e747bb0bd064fe410093b50": {
+    "contracts": {
+      "0x47512b83b9e3dd972123cfc09bb0b0259a03b27dbc6d7d6ba08caaf4b36e976d": {
+        "name": "MDBAccount",
+        "address": "0x0570de58e88ca52e7236e611783f465f648e42a0"
+      },
+      "0xa81324be80fbf3230900a13788c8af1c4bbbbdc09a72db9ae3cddd0f9d116a48": {
+        "name": "MDBService",
+        "address": "0xc15ba73fabcbd38c4ccb52b1b79515120ae639f2"
+      }
+    },
+    "name": "development"
+  },
+  "0x0f9902060437ecb8987ed4e2ccf21dc59c3961c52b4bf21d735dccf0363df3c7": {
+    "contracts": {
+      "0xdb943fafab0c31da00ca0ca8ff13c7399dffb63840c7a00f2c4b953ec70c5e00": {
+        "name": "MDBService",
+        "address": "0x3f5d90fac4e5a883bd8209e733ad88bf14f0f89e"
+      }
+    },
+    "name": "development"
+  },
+  "0x99d7108a61d91f3a94b3e4c7994bef6025f297bfc651ac9a686a4c552bc32b0f": {
+    "contracts": {
+      "0xdb943fafab0c31da00ca0ca8ff13c7399dffb63840c7a00f2c4b953ec70c5e00": {
+        "name": "MDBService",
+        "address": "0x2e2b1423c1414e6e341c572b916667cd1e3daf96"
+      },
+      "0xfac3bc5f315762f3c04c233c42d2bba7079cd77a1a1da5bf2f640d31877299dc": {
+        "name": "MDBService",
+        "address": "0x4d4ff5c03e2a46102eb064755ef9de97cdea4df7"
+      }
+    },
+    "name": "development"
+  },
+  "0xf54af54b33cddffcaecc9d8e63e5a0db32335d680f81721c2fac1da936f1fe01": {
+    "contracts": {
+      "0x9fd63795bd3a8e5f32532ac92eb7024b4e446364b5770a47c33368d6cd4e51af": {
+        "name": "BankAccount",
+        "address": "0x29502188f8ebd2fae1362f40777ea5fa1a3b8123"
+      },
+      "0x5c8cd9d69cf51437d63783e78f95c837f956efeff73a5fbaa3a07e9ff35ca6b9": {
+        "name": "Destructible",
+        "address": "0x305368f2c515c71b3618935e644608667236a9af"
+      },
+      "0xb7c5907694618ede69e2c028506e289f618ee62df920b8525ba68428fcf90ab2": {
+        "name": "Ownable",
+        "address": "0xe991cbc4a729c221d0709c95520e1d4613a2b8bf"
+      }
+    },
+    "name": "development"
+  },
+  "0x3fbdc664930d023b132e006e4a8787734c21b65b2e03f2cf0d972298cccb48bd": {
+    "contracts": {
+      "0x9ae9adff38015c7d290dcd0edab0ff603542a5c8dfc22f1a1a2568eaa87e6301": {
+        "name": "MDBAccount",
+        "address": "0xab710910a9b26a97181917dc8e13c32b11ab23bc"
+      },
+      "0x5e570308ae1c37716ca4a8943c7633339e83922ebfb0766816d6daf7efa22244": {
+        "name": "MDBService",
+        "address": "0x92aee93e981c06dbeffd76bbfa6dcc21acd57f56"
+      }
+    },
+    "name": "development"
+  },
+  "0xedfdd6ce117c04ca2c38d86ccc6af96cb25a1ca957a9921b94a8e9cbbc8e462c": {
+    "contracts": {
+      "0x9ae9adff38015c7d290dcd0edab0ff603542a5c8dfc22f1a1a2568eaa87e6301": {
+        "name": "MDBAccount",
+        "address": "0xedfef2a8b43fb1b14630c609638c44863b173a0d"
+      },
+      "0xdb943fafab0c31da00ca0ca8ff13c7399dffb63840c7a00f2c4b953ec70c5e00": {
+        "name": "MDBService",
+        "address": "0x4ab59ff0b6bef8f16b333db0d32a0d3f4b074e88"
+      }
+    },
+    "name": "development"
+  },
+  "0xb04a7459bf669e36e6e9c83519685f34133da052e53958ac47545161cf724cd5": {
+    "contracts": {
+      "0x9ae9adff38015c7d290dcd0edab0ff603542a5c8dfc22f1a1a2568eaa87e6301": {
+        "name": "MDBAccount",
+        "address": "0x05f9f44c210558ca32c37288128feddd06654fc3"
+      },
+      "0xdb943fafab0c31da00ca0ca8ff13c7399dffb63840c7a00f2c4b953ec70c5e00": {
+        "name": "MDBService",
+        "address": "0xa0bf8c0a7d5dfe1377b4bf301febc0397a13d129"
+      },
+      "0x3b504485591500c5eb6bbd4c7da8b78bbbb75ba758ca39740046b9f1914a18dc": {
+        "name": "MDBService",
+        "address": "0x396e08cfa1b70b9e79ad90dd7f866510000b86bf"
+      },
+      "0xc05d43201133c8b19f893365550eb63b79dd20919e6e0943f8361a09dae12c2b": {
+        "name": "MDBAccount",
+        "address": "0x365e9059c9e7238fdb2feb8ab080030ceb88d54c"
+      }
+    },
+    "name": "development"
+  },
+  "0xe75a359f93f444a55b587c7121153c3f58503f923c0ec4c37bf1af6732b3a262": {
+    "contracts": {
+      "0xedd00357bb457a18983bdb03f3a8c94cdb977deec6485255af5ea853d19682d1": {
+        "name": "MDBAccount",
+        "address": "0x9352f7edd5cb438532963f29f98639ffcaf5b215"
+      },
+      "0xdb943fafab0c31da00ca0ca8ff13c7399dffb63840c7a00f2c4b953ec70c5e00": {
+        "name": "MDBService",
+        "address": "0xb51fcf19da9487fde7f500ef350f3d6d4e9f4850"
+      }
+    },
+    "name": "development"
+  }
+}

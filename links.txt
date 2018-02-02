@@ -1,0 +1,3 @@
+https://myetherwallet.github.io/knowledge-base/gas/what-is-gas-ethereum.html
+
+http://ethereumdev.io/solidity-hello-world-with-ethereum-wallet/
